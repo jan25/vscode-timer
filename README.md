@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <a title="Learn more about Timer extension" href="http://github.com/jan25/vscode-timer"><img src="https://raw.githubusercontent.com/jan25/vscode-timer/master/assets/timer.png" alt="Timer Logo" width="50%" /></a>
+  <a title="Learn more about Timer extension" href="http://github.com/jan25/vscode-timer"><img src="https://raw.githubusercontent.com/jan25/vscode-timer/master/assets/timer.png" alt="Timer Logo" width="25%" /></a>
 </p>
 
 Timer Extension for VS Code - Set timer to keep track of deadlines or to get breaks between coding sessions.
