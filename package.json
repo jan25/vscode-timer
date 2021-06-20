@@ -6,7 +6,7 @@
 		"url": "https://github.com/jan25/vscode-timer"
 	},
 	"description": "VS Code Timer Extension for deadlines and taking breaks between coding sessions.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"icon": "assets/timer.png",
 	"engines": {
 		"vscode": "^1.57.0"
