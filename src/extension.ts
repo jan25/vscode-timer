@@ -3,7 +3,7 @@ import * as vscode from 'vscode';
 const PREDEFINED_TIMER_DURATIONS = ['10m', '15m', '30m', '1h', '2h'];
 
 const TIMER_STORAGE_KEY = 'vscode-timer:storage-key';
-const MINUTE = 5 * 1000; // milli sec in a min
+const MINUTE = 60 * 1000; // milli sec in a min
 
 const CANCEL_TIMER_LABEL = '$(close) Cancel timer';
 const RESET_TIMER_LABEL = '$(clock) Reset timer';
