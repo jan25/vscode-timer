@@ -1,8 +1,12 @@
 {
 	"name": "vscode-timer",
 	"displayName": "vscode-timer",
-	"description": "Timer for deadlines and taking breaks between coding sessions.",
-	"version": "0.0.1",
+	"publisher": "jan25",
+	"repository": {
+		"url": "https://github.com/jan25/vscode-timer"
+	},
+	"description": "VS Code Timer Extension for deadlines and taking breaks between coding sessions.",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
@@ -10,19 +14,19 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:vscode-timer.helloWorld",
-		"onCommand:vscode-timer.start"
+		"onCommand:vscode-timer.start",
+		"onCommand:vscode-timer.cancel"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "vscode-timer.helloWorld",
-				"title": "Hello World"
+				"command": "vscode-timer.start",
+				"title": "Timer: Start"
 			},
 			{
-				"command": "vscode-timer.start",
-				"title": "Timer: start"
+				"command": "vscode-timer.cancel",
+				"title": "Timer: Cancel"
 			}
 		]
 	},
