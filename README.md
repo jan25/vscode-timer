@@ -25,6 +25,10 @@ Please file any bug reports and suggestions at [issues section](https://github.c
 
 ## Release Notes
 
+### 0.1.1
+
+Minor fixes to non-functional stuff.
+
 ### 0.1.0
 
 Initial release with all basic features.
