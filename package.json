@@ -7,6 +7,7 @@
 	},
 	"description": "VS Code Timer Extension for deadlines and taking breaks between coding sessions.",
 	"version": "0.1.0",
+	"icon": "assets/timer.png",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
