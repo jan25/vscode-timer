@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 
-const PREDEFINED_TIMER_DURATIONS = ['10m', '15m', '30m', '1h', '2h'];
+const PREDEFINED_TIMER_DURATIONS = ['1m', '2m', '3m', '4m', '5m', '6m', '7m', '8m', '9m', 10m', '15m', '30m', '45m', '1h', '2h', '3h', '4h', '5h', '7h', '10h', '12h'];
 
 const TIMER_STORAGE_KEY = 'vscode-timer:storage-key';
 const MINUTE = 60 * 1000; // milli sec in a min
